@@ -1,0 +1,187 @@
+appointment_date,appointment_day_of_week,appointment_month,sms_desc,scholarship_desc,attendance_status,appointment_count,total_no_shows,total_shows,avg_lead_time_days
+2016-04-29,Friday,April,No SMS Sent,Bolsa Família Enrolled,No Show,30,30,0,9.066666666666666
+2016-04-29,Friday,April,No SMS Sent,Bolsa Família Enrolled,Showed Up,162,0,162,1.5185185185185186
+2016-04-29,Friday,April,No SMS Sent,No Welfare,No Show,268,268,0,9.735074626865671
+2016-04-29,Friday,April,No SMS Sent,No Welfare,Showed Up,1500,0,1500,3.45
+2016-04-29,Friday,April,SMS Reminder Received,Bolsa Família Enrolled,No Show,48,48,0,19.3125
+2016-04-29,Friday,April,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,80,0,80,18.4375
+2016-04-29,Friday,April,SMS Reminder Received,No Welfare,No Show,287,287,0,23.693379790940767
+2016-04-29,Friday,April,SMS Reminder Received,No Welfare,Showed Up,860,0,860,23.917441860465118
+2016-05-02,Monday,May,No SMS Sent,Bolsa Família Enrolled,No Show,27,27,0,13.148148148148149
+2016-05-02,Monday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,178,0,178,1.601123595505618
+2016-05-02,Monday,May,No SMS Sent,No Welfare,No Show,205,205,0,14.614634146341464
+2016-05-02,Monday,May,No SMS Sent,No Welfare,Showed Up,1682,0,1682,2.2859690844233054
+2016-05-02,Monday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,75,75,0,12.653333333333334
+2016-05-02,Monday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,136,0,136,12.345588235294118
+2016-05-02,Monday,May,SMS Reminder Received,No Welfare,No Show,554,554,0,17.42057761732852
+2016-05-02,Monday,May,SMS Reminder Received,No Welfare,Showed Up,1519,0,1519,14.653061224489797
+2016-05-03,Tuesday,May,No SMS Sent,Bolsa Família Enrolled,No Show,33,33,0,6.848484848484849
+2016-05-03,Tuesday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,202,0,202,1.8663366336633664
+2016-05-03,Tuesday,May,No SMS Sent,No Welfare,No Show,234,234,0,9.696581196581196
+2016-05-03,Tuesday,May,No SMS Sent,No Welfare,Showed Up,1789,0,1789,1.955841252096143
+2016-05-03,Tuesday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,80,80,0,14.275
+2016-05-03,Tuesday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,153,0,153,14.594771241830065
+2016-05-03,Tuesday,May,SMS Reminder Received,No Welfare,No Show,483,483,0,16.977225672877847
+2016-05-03,Tuesday,May,SMS Reminder Received,No Welfare,Showed Up,1281,0,1281,15.741608118657298
+2016-05-04,Wednesday,May,No SMS Sent,Bolsa Família Enrolled,No Show,52,52,0,3.173076923076923
+2016-05-04,Wednesday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,205,0,205,1.4780487804878049
+2016-05-04,Wednesday,May,No SMS Sent,No Welfare,No Show,383,383,0,5.477806788511749
+2016-05-04,Wednesday,May,No SMS Sent,No Welfare,Showed Up,1885,0,1885,2.253580901856764
+2016-05-04,Wednesday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,53,53,0,14.0
+2016-05-04,Wednesday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,100,0,100,15.71
+2016-05-04,Wednesday,May,SMS Reminder Received,No Welfare,No Show,484,484,0,19.946280991735538
+2016-05-04,Wednesday,May,SMS Reminder Received,No Welfare,Showed Up,1005,0,1005,18.1681592039801
+2016-05-05,Thursday,May,No SMS Sent,Bolsa Família Enrolled,No Show,30,30,0,4.5
+2016-05-05,Thursday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,247,0,247,2.1376518218623484
+2016-05-05,Thursday,May,No SMS Sent,No Welfare,No Show,304,304,0,7.328947368421052
+2016-05-05,Thursday,May,No SMS Sent,No Welfare,Showed Up,2110,0,2110,2.253080568720379
+2016-05-05,Thursday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,49,49,0,17.510204081632654
+2016-05-05,Thursday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,121,0,121,18.892561983471076
+2016-05-05,Thursday,May,SMS Reminder Received,No Welfare,No Show,423,423,0,20.37825059101655
+2016-05-05,Thursday,May,SMS Reminder Received,No Welfare,Showed Up,988,0,988,19.029352226720647
+2016-05-06,Friday,May,No SMS Sent,Bolsa Família Enrolled,No Show,46,46,0,3.4782608695652173
+2016-05-06,Friday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,191,0,191,2.115183246073298
+2016-05-06,Friday,May,No SMS Sent,No Welfare,No Show,372,372,0,7.115591397849462
+2016-05-06,Friday,May,No SMS Sent,No Welfare,Showed Up,1906,0,1906,2.396642182581322
+2016-05-06,Friday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,53,53,0,18.452830188679247
+2016-05-06,Friday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,87,0,87,16.7816091954023
+2016-05-06,Friday,May,SMS Reminder Received,No Welfare,No Show,324,324,0,21.47530864197531
+2016-05-06,Friday,May,SMS Reminder Received,No Welfare,Showed Up,900,0,900,21.284444444444443
+2016-05-09,Monday,May,No SMS Sent,Bolsa Família Enrolled,No Show,109,109,0,12.311926605504587
+2016-05-09,Monday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,294,0,294,5.663265306122449
+2016-05-09,Monday,May,No SMS Sent,No Welfare,No Show,909,909,0,15.532453245324533
+2016-05-09,Monday,May,No SMS Sent,No Welfare,Showed Up,3207,0,3207,8.096039912690989
+2016-05-10,Tuesday,May,No SMS Sent,Bolsa Família Enrolled,No Show,30,30,0,9.9
+2016-05-10,Tuesday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,202,0,202,1.5346534653465347
+2016-05-10,Tuesday,May,No SMS Sent,No Welfare,No Show,295,295,0,9.898305084745763
+2016-05-10,Tuesday,May,No SMS Sent,No Welfare,Showed Up,1729,0,1729,2.0023134759976866
+2016-05-10,Tuesday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,80,80,0,14.5375
+2016-05-10,Tuesday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,124,0,124,14.10483870967742
+2016-05-10,Tuesday,May,SMS Reminder Received,No Welfare,No Show,587,587,0,15.608177172061328
+2016-05-10,Tuesday,May,SMS Reminder Received,No Welfare,Showed Up,1261,0,1261,15.354480570975417
+2016-05-11,Wednesday,May,No SMS Sent,Bolsa Família Enrolled,No Show,59,59,0,5.47457627118644
+2016-05-11,Wednesday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,197,0,197,1.7208121827411167
+2016-05-11,Wednesday,May,No SMS Sent,No Welfare,No Show,353,353,0,6.626062322946176
+2016-05-11,Wednesday,May,No SMS Sent,No Welfare,Showed Up,2098,0,2098,2.347950428979981
+2016-05-11,Wednesday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,58,58,0,18.948275862068964
+2016-05-11,Wednesday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,109,0,109,17.880733944954127
+2016-05-11,Wednesday,May,SMS Reminder Received,No Welfare,No Show,415,415,0,20.71566265060241
+2016-05-11,Wednesday,May,SMS Reminder Received,No Welfare,Showed Up,1185,0,1185,19.50210970464135
+2016-05-12,Thursday,May,No SMS Sent,Bolsa Família Enrolled,No Show,40,40,0,8.75
+2016-05-12,Thursday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,228,0,228,1.2719298245614035
+2016-05-12,Thursday,May,No SMS Sent,No Welfare,No Show,345,345,0,7.597101449275362
+2016-05-12,Thursday,May,No SMS Sent,No Welfare,Showed Up,2192,0,2192,2.3284671532846715
+2016-05-12,Thursday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,51,51,0,14.352941176470589
+2016-05-12,Thursday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,113,0,113,15.584070796460177
+2016-05-12,Thursday,May,SMS Reminder Received,No Welfare,No Show,401,401,0,22.374064837905237
+2016-05-12,Thursday,May,SMS Reminder Received,No Welfare,Showed Up,1024,0,1024,20.4560546875
+2016-05-13,Friday,May,No SMS Sent,Bolsa Família Enrolled,No Show,124,124,0,14.588709677419354
+2016-05-13,Friday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,290,0,290,6.075862068965518
+2016-05-13,Friday,May,No SMS Sent,No Welfare,No Show,781,781,0,15.681177976952625
+2016-05-13,Friday,May,No SMS Sent,No Welfare,Showed Up,2792,0,2792,8.33810888252149
+2016-05-14,Saturday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,2,0,2,0.0
+2016-05-14,Saturday,May,No SMS Sent,No Welfare,No Show,6,6,0,2.0
+2016-05-14,Saturday,May,No SMS Sent,No Welfare,Showed Up,18,0,18,2.7777777777777777
+2016-05-14,Saturday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,1,0,1,8.0
+2016-05-14,Saturday,May,SMS Reminder Received,No Welfare,No Show,3,3,0,11.333333333333334
+2016-05-14,Saturday,May,SMS Reminder Received,No Welfare,Showed Up,9,0,9,6.777777777777778
+2016-05-16,Monday,May,No SMS Sent,Bolsa Família Enrolled,No Show,126,126,0,14.65079365079365
+2016-05-16,Monday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,335,0,335,6.035820895522388
+2016-05-16,Monday,May,No SMS Sent,No Welfare,No Show,922,922,0,16.830802603036876
+2016-05-16,Monday,May,No SMS Sent,No Welfare,Showed Up,3229,0,3229,8.759368225456798
+2016-05-17,Tuesday,May,No SMS Sent,Bolsa Família Enrolled,No Show,101,101,0,15.108910891089108
+2016-05-17,Tuesday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,300,0,300,7.236666666666666
+2016-05-17,Tuesday,May,No SMS Sent,No Welfare,No Show,833,833,0,15.369747899159664
+2016-05-17,Tuesday,May,No SMS Sent,No Welfare,Showed Up,3137,0,3137,7.8144724258846034
+2016-05-18,Wednesday,May,No SMS Sent,Bolsa Família Enrolled,No Show,93,93,0,13.46236559139785
+2016-05-18,Wednesday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,334,0,334,5.979041916167665
+2016-05-18,Wednesday,May,No SMS Sent,No Welfare,No Show,797,797,0,15.565872020075282
+2016-05-18,Wednesday,May,No SMS Sent,No Welfare,Showed Up,3149,0,3149,8.838678945697046
+2016-05-19,Thursday,May,No SMS Sent,Bolsa Família Enrolled,No Show,102,102,0,14.931372549019608
+2016-05-19,Thursday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,279,0,279,6.265232974910394
+2016-05-19,Thursday,May,No SMS Sent,No Welfare,No Show,788,788,0,15.875634517766498
+2016-05-19,Thursday,May,No SMS Sent,No Welfare,Showed Up,3099,0,3099,8.8054211035818
+2016-05-20,Friday,May,No SMS Sent,Bolsa Família Enrolled,No Show,103,103,0,17.058252427184467
+2016-05-20,Friday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,265,0,265,7.162264150943396
+2016-05-20,Friday,May,No SMS Sent,No Welfare,No Show,796,796,0,16.339195979899497
+2016-05-20,Friday,May,No SMS Sent,No Welfare,Showed Up,2664,0,2664,8.69557057057057
+2016-05-24,Tuesday,May,No SMS Sent,Bolsa Família Enrolled,No Show,24,24,0,10.875
+2016-05-24,Tuesday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,173,0,173,1.8728323699421965
+2016-05-24,Tuesday,May,No SMS Sent,No Welfare,No Show,190,190,0,15.352631578947369
+2016-05-24,Tuesday,May,No SMS Sent,No Welfare,Showed Up,1592,0,1592,2.477386934673367
+2016-05-24,Tuesday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,82,82,0,16.109756097560975
+2016-05-24,Tuesday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,132,0,132,12.969696969696969
+2016-05-24,Tuesday,May,SMS Reminder Received,No Welfare,No Show,515,515,0,17.09902912621359
+2016-05-24,Tuesday,May,SMS Reminder Received,No Welfare,Showed Up,1301,0,1301,15.205995388162952
+2016-05-25,Wednesday,May,No SMS Sent,Bolsa Família Enrolled,No Show,24,24,0,5.708333333333333
+2016-05-25,Wednesday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,171,0,171,2.847953216374269
+2016-05-25,Wednesday,May,No SMS Sent,No Welfare,No Show,226,226,0,11.539823008849558
+2016-05-25,Wednesday,May,No SMS Sent,No Welfare,Showed Up,1585,0,1585,2.5974763406940062
+2016-05-25,Wednesday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,57,57,0,16.280701754385966
+2016-05-25,Wednesday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,134,0,134,16.76865671641791
+2016-05-25,Wednesday,May,SMS Reminder Received,No Welfare,No Show,452,452,0,19.58407079646018
+2016-05-25,Wednesday,May,SMS Reminder Received,No Welfare,Showed Up,1260,0,1260,17.31031746031746
+2016-05-30,Monday,May,No SMS Sent,Bolsa Família Enrolled,No Show,19,19,0,19.36842105263158
+2016-05-30,Monday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,222,0,222,2.454954954954955
+2016-05-30,Monday,May,No SMS Sent,No Welfare,No Show,193,193,0,16.979274611398964
+2016-05-30,Monday,May,No SMS Sent,No Welfare,Showed Up,1663,0,1663,3.3096812988574866
+2016-05-30,Monday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,88,88,0,21.443181818181817
+2016-05-30,Monday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,153,0,153,17.594771241830067
+2016-05-30,Monday,May,SMS Reminder Received,No Welfare,No Show,588,588,0,23.64965986394558
+2016-05-30,Monday,May,SMS Reminder Received,No Welfare,Showed Up,1587,0,1587,21.838689350976686
+2016-05-31,Tuesday,May,No SMS Sent,Bolsa Família Enrolled,No Show,25,25,0,14.56
+2016-05-31,Tuesday,May,No SMS Sent,Bolsa Família Enrolled,Showed Up,191,0,191,1.8952879581151831
+2016-05-31,Tuesday,May,No SMS Sent,No Welfare,No Show,218,218,0,10.885321100917432
+2016-05-31,Tuesday,May,No SMS Sent,No Welfare,Showed Up,1646,0,1646,4.066828675577157
+2016-05-31,Tuesday,May,SMS Reminder Received,Bolsa Família Enrolled,No Show,71,71,0,19.338028169014084
+2016-05-31,Tuesday,May,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,147,0,147,16.693877551020407
+2016-05-31,Tuesday,May,SMS Reminder Received,No Welfare,No Show,453,453,0,21.090507726269315
+2016-05-31,Tuesday,May,SMS Reminder Received,No Welfare,Showed Up,1528,0,1528,21.342277486910994
+2016-06-01,Wednesday,June,No SMS Sent,Bolsa Família Enrolled,No Show,45,45,0,6.333333333333333
+2016-06-01,Wednesday,June,No SMS Sent,Bolsa Família Enrolled,Showed Up,223,0,223,1.7533632286995515
+2016-06-01,Wednesday,June,No SMS Sent,No Welfare,No Show,340,340,0,8.529411764705882
+2016-06-01,Wednesday,June,No SMS Sent,No Welfare,Showed Up,2147,0,2147,2.6851420586865395
+2016-06-01,Wednesday,June,SMS Reminder Received,Bolsa Família Enrolled,No Show,62,62,0,17.93548387096774
+2016-06-01,Wednesday,June,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,103,0,103,16.359223300970875
+2016-06-01,Wednesday,June,SMS Reminder Received,No Welfare,No Show,365,365,0,24.427397260273974
+2016-06-01,Wednesday,June,SMS Reminder Received,No Welfare,Showed Up,1179,0,1179,22.380831212892282
+2016-06-02,Thursday,June,No SMS Sent,Bolsa Família Enrolled,No Show,30,30,0,9.533333333333333
+2016-06-02,Thursday,June,No SMS Sent,Bolsa Família Enrolled,Showed Up,224,0,224,2.044642857142857
+2016-06-02,Thursday,June,No SMS Sent,No Welfare,No Show,320,320,0,8.096875
+2016-06-02,Thursday,June,No SMS Sent,No Welfare,Showed Up,2059,0,2059,2.3074307916464303
+2016-06-02,Thursday,June,SMS Reminder Received,Bolsa Família Enrolled,No Show,45,45,0,21.866666666666667
+2016-06-02,Thursday,June,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,99,0,99,19.78787878787879
+2016-06-02,Thursday,June,SMS Reminder Received,No Welfare,No Show,407,407,0,23.218673218673217
+2016-06-02,Thursday,June,SMS Reminder Received,No Welfare,Showed Up,1126,0,1126,20.75310834813499
+2016-06-03,Friday,June,No SMS Sent,Bolsa Família Enrolled,No Show,37,37,0,6.621621621621622
+2016-06-03,Friday,June,No SMS Sent,Bolsa Família Enrolled,Showed Up,212,0,212,1.599056603773585
+2016-06-03,Friday,June,No SMS Sent,No Welfare,No Show,335,335,0,7.367164179104478
+2016-06-03,Friday,June,No SMS Sent,No Welfare,Showed Up,1935,0,1935,3.1266149870801034
+2016-06-03,Friday,June,SMS Reminder Received,Bolsa Família Enrolled,No Show,49,49,0,23.551020408163264
+2016-06-03,Friday,June,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,105,0,105,20.323809523809523
+2016-06-03,Friday,June,SMS Reminder Received,No Welfare,No Show,384,384,0,24.385416666666668
+2016-06-03,Friday,June,SMS Reminder Received,No Welfare,Showed Up,1032,0,1032,22.767441860465116
+2016-06-06,Monday,June,No SMS Sent,Bolsa Família Enrolled,No Show,17,17,0,15.411764705882353
+2016-06-06,Monday,June,No SMS Sent,Bolsa Família Enrolled,Showed Up,203,0,203,1.4236453201970443
+2016-06-06,Monday,June,No SMS Sent,No Welfare,No Show,210,210,0,12.247619047619047
+2016-06-06,Monday,June,No SMS Sent,No Welfare,Showed Up,1817,0,1817,2.8585580627407814
+2016-06-06,Monday,June,SMS Reminder Received,Bolsa Família Enrolled,No Show,74,74,0,20.216216216216218
+2016-06-06,Monday,June,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,164,0,164,13.823170731707316
+2016-06-06,Monday,June,SMS Reminder Received,No Welfare,No Show,572,572,0,19.986013986013987
+2016-06-06,Monday,June,SMS Reminder Received,No Welfare,Showed Up,1634,0,1634,16.546511627906977
+2016-06-07,Tuesday,June,No SMS Sent,Bolsa Família Enrolled,No Show,32,32,0,9.625
+2016-06-07,Tuesday,June,No SMS Sent,Bolsa Família Enrolled,Showed Up,184,0,184,1.4076086956521738
+2016-06-07,Tuesday,June,No SMS Sent,No Welfare,No Show,233,233,0,12.085836909871245
+2016-06-07,Tuesday,June,No SMS Sent,No Welfare,Showed Up,1837,0,1837,2.9254218835057157
+2016-06-07,Tuesday,June,SMS Reminder Received,Bolsa Família Enrolled,No Show,61,61,0,15.836065573770492
+2016-06-07,Tuesday,June,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,134,0,134,16.402985074626866
+2016-06-07,Tuesday,June,SMS Reminder Received,No Welfare,No Show,490,490,0,18.453061224489797
+2016-06-07,Tuesday,June,SMS Reminder Received,No Welfare,Showed Up,1445,0,1445,16.307266435986158
+2016-06-08,Wednesday,June,No SMS Sent,Bolsa Família Enrolled,No Show,36,36,0,6.694444444444445
+2016-06-08,Wednesday,June,No SMS Sent,Bolsa Família Enrolled,Showed Up,248,0,248,2.213709677419355
+2016-06-08,Wednesday,June,No SMS Sent,No Welfare,No Show,277,277,0,5.747292418772563
+2016-06-08,Wednesday,June,No SMS Sent,No Welfare,Showed Up,2079,0,2079,2.660894660894661
+2016-06-08,Wednesday,June,SMS Reminder Received,Bolsa Família Enrolled,No Show,48,48,0,21.6875
+2016-06-08,Wednesday,June,SMS Reminder Received,Bolsa Família Enrolled,Showed Up,126,0,126,20.023809523809526
+2016-06-08,Wednesday,June,SMS Reminder Received,No Welfare,No Show,413,413,0,21.62227602905569
+2016-06-08,Wednesday,June,SMS Reminder Received,No Welfare,Showed Up,1252,0,1252,20.39856230031949

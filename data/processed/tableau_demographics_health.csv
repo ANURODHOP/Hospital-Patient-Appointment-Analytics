@@ -1,0 +1,296 @@
+age_group,gender_full,hypertension_desc,diabetes_desc,alcoholism_desc,has_handicap,comorbidity_category,attendance_status,appointment_count,avg_age,total_no_shows,total_shows
+Children (0-12),Female,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Female,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Female,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Female,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Female,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Female,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Female,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Female,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,No Show,1,8.0,1,0
+Children (0-12),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,1,12.0,0,1
+Children (0-12),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Female,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Female,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Female,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,No Show,2,11.0,2,0
+Children (0-12),Female,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,9,10.555555555555555,0,9
+Children (0-12),Female,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,No Show,0,,0,0
+Children (0-12),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,Showed Up,1,8.0,0,1
+Children (0-12),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,No Show,2037,5.3156602847324494,2037,0
+Children (0-12),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,Showed Up,7932,4.826777609682299,0,7932
+Children (0-12),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,No Show,10,9.2,10,0
+Children (0-12),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,Showed Up,29,7.724137931034483,0,29
+Children (0-12),Male,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Male,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Male,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Male,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Male,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Male,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),Showed Up,3,7.0,0,3
+Children (0-12),Male,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Male,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,No Show,3,9.333333333333334,3,0
+Children (0-12),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,4,8.75,0,4
+Children (0-12),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Male,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Male,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Male,Normal BP,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Male,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,No Show,3,6.333333333333333,3,0
+Children (0-12),Male,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,2,6.0,0,2
+Children (0-12),Male,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Male,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,No Show,8,11.125,8,0
+Children (0-12),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,Showed Up,4,7.25,0,4
+Children (0-12),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Children (0-12),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Children (0-12),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,No Show,2215,5.412189616252822,2215,0
+Children (0-12),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,Showed Up,8712,4.846074380165289,0,8712
+Children (0-12),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,No Show,27,8.925925925925926,27,0
+Children (0-12),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,Showed Up,32,8.4375,0,32
+Youth (13-24),Female,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Female,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Female,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Female,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Female,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),No Show,4,21.0,4,0
+Youth (13-24),Female,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),Showed Up,7,17.857142857142858,0,7
+Youth (13-24),Female,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Female,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,No Show,12,19.25,12,0
+Youth (13-24),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,36,20.47222222222222,0,36
+Youth (13-24),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Female,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Female,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Female,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,No Show,12,17.666666666666668,12,0
+Youth (13-24),Female,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,32,19.15625,0,32
+Youth (13-24),Female,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,No Show,17,20.764705882352942,17,0
+Youth (13-24),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,Showed Up,26,21.192307692307693,0,26
+Youth (13-24),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,No Show,2752,18.89752906976744,2752,0
+Youth (13-24),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,Showed Up,8097,18.96566629615907,0,8097
+Youth (13-24),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,No Show,28,18.035714285714285,28,0
+Youth (13-24),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,Showed Up,116,18.103448275862068,0,116
+Youth (13-24),Male,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Male,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Male,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Male,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Male,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),No Show,1,20.0,1,0
+Youth (13-24),Male,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Male,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Male,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,No Show,9,20.11111111111111,9,0
+Youth (13-24),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,18,19.88888888888889,0,18
+Youth (13-24),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,1,23.0,0,1
+Youth (13-24),Male,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Male,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Male,Normal BP,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Male,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,No Show,6,20.833333333333332,6,0
+Youth (13-24),Male,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,10,20.6,0,10
+Youth (13-24),Male,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Male,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,No Show,8,22.0,8,0
+Youth (13-24),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,Showed Up,23,20.695652173913043,0,23
+Youth (13-24),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Youth (13-24),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Youth (13-24),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,No Show,1282,17.86349453978159,1282,0
+Youth (13-24),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,Showed Up,3596,17.984983314794217,0,3596
+Youth (13-24),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,No Show,26,15.153846153846153,26,0
+Youth (13-24),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,Showed Up,110,18.581818181818182,0,110
+Young Adults (25-44),Female,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,3,38.333333333333336,3,0
+Young Adults (25-44),Female,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,9,36.0,0,9
+Young Adults (25-44),Female,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Young Adults (25-44),Female,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Young Adults (25-44),Female,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),No Show,56,39.910714285714285,56,0
+Young Adults (25-44),Female,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),Showed Up,268,38.48880597014925,0,268
+Young Adults (25-44),Female,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,2,39.5,2,0
+Young Adults (25-44),Female,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,13,42.0,0,13
+Young Adults (25-44),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,21,38.04761904761905,21,0
+Young Adults (25-44),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,52,37.01923076923077,0,52
+Young Adults (25-44),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Young Adults (25-44),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,No Show,290,37.38620689655173,290,0
+Young Adults (25-44),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,1144,37.64597902097902,0,1144
+Young Adults (25-44),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,8,41.625,8,0
+Young Adults (25-44),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,28,39.0,0,28
+Young Adults (25-44),Female,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,2,36.0,2,0
+Young Adults (25-44),Female,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,9,39.333333333333336,0,9
+Young Adults (25-44),Female,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,No Show,55,34.56363636363636,55,0
+Young Adults (25-44),Female,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,141,36.5886524822695,0,141
+Young Adults (25-44),Female,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,7,37.714285714285715,0,7
+Young Adults (25-44),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,No Show,122,35.0655737704918,122,0
+Young Adults (25-44),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,Showed Up,266,35.04887218045113,0,266
+Young Adults (25-44),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,2,33.0,2,0
+Young Adults (25-44),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,12,32.0,0,12
+Young Adults (25-44),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,No Show,4019,33.78825578502115,4019,0
+Young Adults (25-44),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,Showed Up,13811,34.078198537397725,0,13811
+Young Adults (25-44),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,No Show,56,34.035714285714285,56,0
+Young Adults (25-44),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,Showed Up,183,35.295081967213115,0,183
+Young Adults (25-44),Male,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,2,36.0,2,0
+Young Adults (25-44),Male,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,8,40.375,0,8
+Young Adults (25-44),Male,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Young Adults (25-44),Male,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Young Adults (25-44),Male,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),No Show,21,39.095238095238095,21,0
+Young Adults (25-44),Male,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),Showed Up,69,39.65217391304348,0,69
+Young Adults (25-44),Male,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,1,36.0,1,0
+Young Adults (25-44),Male,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,10,39.6,0,10
+Young Adults (25-44),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,14,41.57142857142857,14,0
+Young Adults (25-44),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,64,40.3125,0,64
+Young Adults (25-44),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Young Adults (25-44),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Young Adults (25-44),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,No Show,103,36.932038834951456,103,0
+Young Adults (25-44),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,417,36.666666666666664,0,417
+Young Adults (25-44),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,3,34.0,3,0
+Young Adults (25-44),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,19,36.421052631578945,0,19
+Young Adults (25-44),Male,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,1,38.0,1,0
+Young Adults (25-44),Male,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,5,40.8,0,5
+Young Adults (25-44),Male,Normal BP,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Young Adults (25-44),Male,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,No Show,25,38.08,25,0
+Young Adults (25-44),Male,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,61,38.114754098360656,0,61
+Young Adults (25-44),Male,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Young Adults (25-44),Male,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,7,37.57142857142857,0,7
+Young Adults (25-44),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,No Show,81,36.27160493827161,81,0
+Young Adults (25-44),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,Showed Up,348,38.172413793103445,0,348
+Young Adults (25-44),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Young Adults (25-44),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,8,35.375,0,8
+Young Adults (25-44),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,No Show,1557,34.21323057161207,1557,0
+Young Adults (25-44),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,Showed Up,5322,34.391206313416006,0,5322
+Young Adults (25-44),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,No Show,16,34.125,16,0
+Young Adults (25-44),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,Showed Up,123,34.94308943089431,0,123
+Middle-Aged (45-64),Female,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,14,54.714285714285715,14,0
+Middle-Aged (45-64),Female,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,49,55.755102040816325,0,49
+Middle-Aged (45-64),Female,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,2,54.0,2,0
+Middle-Aged (45-64),Female,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,4,56.0,0,4
+Middle-Aged (45-64),Female,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),No Show,359,56.60445682451253,359,0
+Middle-Aged (45-64),Female,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),Showed Up,1598,56.63329161451815,0,1598
+Middle-Aged (45-64),Female,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,11,56.09090909090909,11,0
+Middle-Aged (45-64),Female,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,51,57.450980392156865,0,51
+Middle-Aged (45-64),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,49,54.673469387755105,49,0
+Middle-Aged (45-64),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,219,52.43835616438356,0,219
+Middle-Aged (45-64),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,2,64.0,0,2
+Middle-Aged (45-64),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,No Show,856,55.21845794392523,856,0
+Middle-Aged (45-64),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,4132,55.31050338818974,0,4132
+Middle-Aged (45-64),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,20,54.5,20,0
+Middle-Aged (45-64),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,104,57.06730769230769,0,104
+Middle-Aged (45-64),Female,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,3,51.666666666666664,3,0
+Middle-Aged (45-64),Female,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,7,54.285714285714285,0,7
+Middle-Aged (45-64),Female,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,No Show,82,53.51219512195122,82,0
+Middle-Aged (45-64),Female,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,388,55.24742268041237,0,388
+Middle-Aged (45-64),Female,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,6,56.833333333333336,0,6
+Middle-Aged (45-64),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,No Show,55,50.32727272727273,55,0
+Middle-Aged (45-64),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,Showed Up,211,50.89099526066351,0,211
+Middle-Aged (45-64),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Middle-Aged (45-64),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,1,58.0,0,1
+Middle-Aged (45-64),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,No Show,2081,53.06823642479577,2081,0
+Middle-Aged (45-64),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,Showed Up,9898,53.609315013133966,0,9898
+Middle-Aged (45-64),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,No Show,32,55.625,32,0
+Middle-Aged (45-64),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,Showed Up,152,54.41447368421053,0,152
+Middle-Aged (45-64),Male,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,14,55.07142857142857,14,0
+Middle-Aged (45-64),Male,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,55,56.6,0,55
+Middle-Aged (45-64),Male,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,1,49.0,1,0
+Middle-Aged (45-64),Male,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,5,50.8,0,5
+Middle-Aged (45-64),Male,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),No Show,119,56.831932773109244,119,0
+Middle-Aged (45-64),Male,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),Showed Up,604,56.90397350993378,0,604
+Middle-Aged (45-64),Male,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,7,54.142857142857146,7,0
+Middle-Aged (45-64),Male,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,45,57.62222222222222,0,45
+Middle-Aged (45-64),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,84,55.773809523809526,84,0
+Middle-Aged (45-64),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,388,54.399484536082475,0,388
+Middle-Aged (45-64),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,1,62.0,1,0
+Middle-Aged (45-64),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,14,60.0,0,14
+Middle-Aged (45-64),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,No Show,304,54.69736842105263,304,0
+Middle-Aged (45-64),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,1362,55.4625550660793,0,1362
+Middle-Aged (45-64),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,7,57.285714285714285,7,0
+Middle-Aged (45-64),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,59,57.49152542372882,0,59
+Middle-Aged (45-64),Male,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,5,51.2,5,0
+Middle-Aged (45-64),Male,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,39,55.46153846153846,0,39
+Middle-Aged (45-64),Male,Normal BP,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,1,61.0,1,0
+Middle-Aged (45-64),Male,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,No Show,36,54.25,36,0
+Middle-Aged (45-64),Male,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,197,55.243654822335024,0,197
+Middle-Aged (45-64),Male,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,3,52.666666666666664,3,0
+Middle-Aged (45-64),Male,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,9,56.22222222222222,0,9
+Middle-Aged (45-64),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,No Show,107,52.00934579439252,107,0
+Middle-Aged (45-64),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,Showed Up,552,55.40217391304348,0,552
+Middle-Aged (45-64),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,2,50.5,2,0
+Middle-Aged (45-64),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,6,58.5,0,6
+Middle-Aged (45-64),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,No Show,879,52.96814562002275,879,0
+Middle-Aged (45-64),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,Showed Up,4539,53.87618418153778,0,4539
+Middle-Aged (45-64),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,No Show,25,50.32,25,0
+Middle-Aged (45-64),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,Showed Up,137,51.503649635036496,0,137
+Seniors (65+),Female,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,1,69.0,1,0
+Seniors (65+),Female,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,11,71.81818181818181,0,11
+Seniors (65+),Female,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Seniors (65+),Female,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Seniors (65+),Female,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),No Show,360,73.05555555555556,360,0
+Seniors (65+),Female,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),Showed Up,1719,73.45607911576498,0,1719
+Seniors (65+),Female,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,22,80.31818181818181,22,0
+Seniors (65+),Female,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,122,76.21311475409836,0,122
+Seniors (65+),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,11,71.54545454545455,11,0
+Seniors (65+),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,20,72.05,0,20
+Seniors (65+),Female,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,4,74.5,0,4
+Seniors (65+),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,No Show,514,75.45525291828794,514,0
+Seniors (65+),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,2927,74.5213529210796,0,2927
+Seniors (65+),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,41,78.39024390243902,41,0
+Seniors (65+),Female,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,161,77.32298136645963,0,161
+Seniors (65+),Female,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,0,,0,0
+Seniors (65+),Female,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Seniors (65+),Female,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,No Show,27,75.4074074074074,27,0
+Seniors (65+),Female,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,133,74.17293233082707,0,133
+Seniors (65+),Female,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,6,73.66666666666667,0,6
+Seniors (65+),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,No Show,6,67.5,6,0
+Seniors (65+),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,Showed Up,12,71.08333333333333,0,12
+Seniors (65+),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Seniors (65+),Female,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Seniors (65+),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,No Show,526,73.0532319391635,526,0
+Seniors (65+),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,Showed Up,3032,73.32816622691293,0,3032
+Seniors (65+),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,No Show,5,72.0,5,0
+Seniors (65+),Female,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,Showed Up,45,77.66666666666667,0,45
+Seniors (65+),Male,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,8,67.625,8,0
+Seniors (65+),Male,Hypertensive,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,69,68.69565217391305,0,69
+Seniors (65+),Male,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,1,65.0,1,0
+Seniors (65+),Male,Hypertensive,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,0,,0,0
+Seniors (65+),Male,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),No Show,124,73.53225806451613,124,0
+Seniors (65+),Male,Hypertensive,Diabetic,No Alcohol Disorder,0,Multimorbid (2+ Conditions),Showed Up,573,73.66841186736475,0,573
+Seniors (65+),Male,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,8,72.75,8,0
+Seniors (65+),Male,Hypertensive,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,53,77.24528301886792,0,53
+Seniors (65+),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,18,69.88888888888889,18,0
+Seniors (65+),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,102,69.01960784313725,0,102
+Seniors (65+),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Seniors (65+),Male,Hypertensive,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,8,73.0,0,8
+Seniors (65+),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,No Show,233,75.36051502145922,233,0
+Seniors (65+),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,1296,74.58796296296296,0,1296
+Seniors (65+),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,29,78.13793103448276,29,0
+Seniors (65+),Male,Hypertensive,Non-Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,101,76.88118811881188,0,101
+Seniors (65+),Male,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),No Show,1,72.0,1,0
+Seniors (65+),Male,Normal BP,Diabetic,Alcohol Use Disorder,0,Multimorbid (2+ Conditions),Showed Up,3,68.33333333333333,0,3
+Seniors (65+),Male,Normal BP,Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Seniors (65+),Male,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,No Show,25,71.76,25,0
+Seniors (65+),Male,Normal BP,Diabetic,No Alcohol Disorder,0,Single Condition,Showed Up,95,71.8,0,95
+Seniors (65+),Male,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Seniors (65+),Male,Normal BP,Diabetic,No Alcohol Disorder,1,Multimorbid (2+ Conditions),Showed Up,2,73.0,0,2
+Seniors (65+),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,No Show,12,69.0,12,0
+Seniors (65+),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,0,Single Condition,Showed Up,63,72.52380952380952,0,63
+Seniors (65+),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),No Show,0,,0,0
+Seniors (65+),Male,Normal BP,Non-Diabetic,Alcohol Use Disorder,1,Multimorbid (2+ Conditions),Showed Up,4,71.0,0,4
+Seniors (65+),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,No Show,252,74.13888888888889,252,0
+Seniors (65+),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,0,No Chronic Conditions,Showed Up,1572,73.69402035623409,0,1572
+Seniors (65+),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,No Show,5,80.4,5,0
+Seniors (65+),Male,Normal BP,Non-Diabetic,No Alcohol Disorder,1,Single Condition,Showed Up,34,78.08823529411765,0,34
