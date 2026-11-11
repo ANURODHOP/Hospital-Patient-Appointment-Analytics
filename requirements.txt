@@ -7,10 +7,12 @@ scipy>=1.13.0
 matplotlib>=3.8.0
 seaborn>=0.13.0
 
-# Interactive Notebooks
+# Interactive Notebooks & Web Application
 jupyter>=1.0.0
 ipykernel>=6.29.0
 nbconvert>=7.16.0
+streamlit>=1.30.0
+plotly>=5.18.0
 
 # Testing and Code Quality
 pytest>=8.0.0
