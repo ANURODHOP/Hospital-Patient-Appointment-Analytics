@@ -19,8 +19,9 @@ An end-to-end healthcare data analytics, statistical hypothesis testing, and int
 6. [Automated Pipeline Execution](#automated-pipeline-execution)
 7. [Automated Test Suite](#automated-test-suite)
 8. [Jupyter Notebook Walkthrough](#jupyter-notebook-walkthrough)
-9. [Tableau Dashboards Implementation Guide](#tableau-dashboards-implementation-guide)
-10. [Academic Reports & Viva Preparation](#academic-reports--viva-preparation)
+9. [Interactive Streamlit Web BI Portal](#interactive-streamlit-web-bi-portal)
+10. [Tableau Dashboards Implementation Guide](#tableau-dashboards-implementation-guide)
+11. [Academic Reports & Viva Preparation](#academic-reports--viva-preparation)
 
 ---
 
@@ -54,6 +55,7 @@ Hospital Patient & Appointment Analytic/
 ├── .gitignore                                  # Git exclusion definitions
 ├── README.md                                   # Master project guide
 ├── requirements.txt                            # Pinned Python package dependencies
+├── app.py                                      # Executive Streamlit Web BI Portal
 ├── data/
 │   ├── raw/
 │   │   └── KaggleV2-May-2016.csv              # Original Kaggle dataset (110,527 rows)
@@ -177,22 +179,40 @@ Select the **Python (Hospital Venv)** kernel. All plots, dataframes, and statist
 
 ---
 
-## 9. Tableau Dashboards Implementation Guide
+## 9. Interactive Streamlit Web BI Portal
+
+To launch the real-time, interactive clinical intelligence portal:
+
+```powershell
+.\venv\Scripts\streamlit run app.py
+```
+
+The portal provides:
+- **Executive Attendance Overview**: Real-time KPI ribbons, completion/default counts, longitudinal appointment volume, weekday workload patterns, and SMS reminder efficacy.
+- **Demographics & Chronic Profile**: Age bracket stratification, empirical gender parity check, chronic disease comorbidity gradients, and individual diagnosis contrasts.
+- **Scheduling Lead-Time & Capacity**: The Waiting-Time Curve (dual-axis volume vs default rate), same-day walk-in benchmark comparisons, and age cohort booking duration heatmaps.
+- **Geographic Catchment Disparities**: Top 10 high-risk and high-compliance municipal neighborhoods, Catchment Risk Matrix (Volume vs Default % vs Welfare Coverage), and searchable clinic registry across all 81 neighborhoods.
+- **Statistical Inference & Hypotheses**: Chi-Square tests of independence with Cramér's V, continuous parametric/non-parametric tests (Welch's t and Mann-Whitney U), and Relative Risk / Odds Ratio tables.
+- **Tableau BI Architecture & Viva Prep**: Technical architecture specs, production calculated field definitions, and interactive viva examination Q&A briefing.
+
+---
+
+## 10. Tableau Dashboards Implementation Guide
 
 The project includes step-by-step construction guides for 4 interactive Tableau dashboards:
 
 | Dashboard | File Guide | Target Focus |
 | :--- | :--- | :--- |
-| **Dashboard 1** | [`tableau/dashboard_1_executive_overview.md`](file:///c:/IMP/Big%20potato%20project/Hospital%20Patient%20&%20Appointment%20Analytic/tableau/dashboard_1_executive_overview.md) | High-level KPIs, daily volume trends, SMS impact |
-| **Dashboard 2** | [`tableau/dashboard_2_demographics_health.md`](file:///c:/IMP/Big%20potato%20project/Hospital%20Patient%20&%20Appointment%20Analytic/tableau/dashboard_2_demographics_health.md) | Age cohorts, gender parity, chronic comorbidities |
-| **Dashboard 3** | [`tableau/dashboard_3_operational_scheduling.md`](file:///c:/IMP/Big%20potato%20project/Hospital%20Patient%20&%20Appointment%20Analytic/tableau/dashboard_3_operational_scheduling.md) | The waiting-time curve, booking hour heatmap |
-| **Dashboard 4** | [`tableau/dashboard_4_neighborhood_attendance.md`](file:///c:/IMP/Big%20potato%20project/Hospital%20Patient%20&%20Appointment%20Analytic/tableau/dashboard_4_neighborhood_attendance.md) | Clinic neighborhood rankings, regional disparity |
+| **Dashboard 1** | [`tableau/dashboard_1_executive_overview.md`](tableau/dashboard_1_executive_overview.md) | High-level KPIs, daily volume trends, SMS impact |
+| **Dashboard 2** | [`tableau/dashboard_2_demographics_health.md`](tableau/dashboard_2_demographics_health.md) | Age cohorts, gender parity, chronic comorbidities |
+| **Dashboard 3** | [`tableau/dashboard_3_operational_scheduling.md`](tableau/dashboard_3_operational_scheduling.md) | The waiting-time curve, booking hour heatmap |
+| **Dashboard 4** | [`tableau/dashboard_4_neighborhood_attendance.md`](tableau/dashboard_4_neighborhood_attendance.md) | Clinic neighborhood rankings, regional disparity |
 
-All copy-paste formulas for Tableau calculated fields are cataloged in [`tableau/calculated_fields_reference.md`](file:///c:/IMP/Big%20potato%20project/Hospital%20Patient%20&%20Appointment%20Analytic/tableau/calculated_fields_reference.md).
+All copy-paste formulas for Tableau calculated fields are cataloged in [`tableau/calculated_fields_reference.md`](tableau/calculated_fields_reference.md).
 
 ---
 
-## 10. Academic Reports & Viva Preparation
+## 11. Academic Reports & Viva Preparation
 
 - **Full DAV Project Report**: [`reports/dav_project_report.md`](file:///c:/IMP/Big%20potato project/Hospital%20Patient%20&%20Appointment%20Analytic/reports/dav_project_report.md)
 - **Viva Questions & Answers**: [`reports/viva_questions_and_answers.md`](file:///c:/IMP/Big%20potato%20project/Hospital%20Patient%20&%20Appointment%20Analytic/reports/viva_questions_and_answers.md)
